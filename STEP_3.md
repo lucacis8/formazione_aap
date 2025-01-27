@@ -1,4 +1,4 @@
-# Step 3: Creare un Workflow e lanciare in serie più playbook
+# Step 3
 
 ## Obiettivo
 Creare un Workflow che esegua in sequenza due playbook:
