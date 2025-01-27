@@ -8,4 +8,4 @@
 
     - name: Show disk usage output
       debug:
-        var: disk_usage.stdout
+        msg: "{{ disk_usage.stdout_lines }}"
