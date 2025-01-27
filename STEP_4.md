@@ -81,7 +81,7 @@ Salva anche questo file nella stessa repository GitHub.
    - **Name**: `Set and Use Variable`
    - **Description**: Facoltativo.
    - **Organization**: Seleziona la tua organizzazione.
-Salva il template.
+3. Salva il template.
 
 ---
 
