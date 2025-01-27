@@ -1,0 +1,7 @@
+---
+- name: Use a global variable
+  hosts: all
+  tasks:
+    - name: Display the variable
+      debug:
+        msg: "{{ my_custom_variable }}"
