@@ -57,7 +57,7 @@ Assicurarsi che il progetto `Formazione AAP` creato nello Step 1 sia sincronizza
 
 ## Output Atteso
 Durante l’esecuzione del Job Template, l’output dovrebbe mostrare che la connessione alla macchina target è riuscita. Un esempio di output positivo è il seguente:
-```bash
+```plaintext
 Identity added: /runner/artifacts/2/ssh_key_data (root@aap-luca)
 
 PLAY [Test connectivity to the target] *****************************************
