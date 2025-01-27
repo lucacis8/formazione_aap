@@ -1,0 +1,8 @@
+---
+- name: Set a global variable
+  hosts: all
+  tasks:
+    - name: Define a variable with set_stats
+      set_stats:
+        data:
+          my_custom_variable: "Hello from the first playbook"
