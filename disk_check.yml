@@ -1,0 +1,6 @@
+---
+- name: Check disk usage
+  hosts: all
+  tasks:
+    - name: Display disk usage
+      command: df -h
